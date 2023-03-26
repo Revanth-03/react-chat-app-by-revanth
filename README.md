@@ -46,8 +46,8 @@ This project was built with the help of the following resources:
 - [React documentation](https://reactjs.org/docs/getting-started.html)
 - [Firebase documentation](https://firebase.google.com/docs)
 - [React Context API tutorial](https://www.smashingmagazine.com/2020/01/introduction-react-context-api)
-- [ESLint documentation](https://eslint.org/docs/user-guide/getting-started)
+- [ESLint documentation](https://eslint.org/docs/user-guide/getting-started)  ESLint documentation also provides guidance on how to write custom ESLint plugins and rules, and how to use existing plugins and rules provided by the ESLint community.
 
 ## Additional Information
 
-This project was created by [Revanth](https://github.com/revanth-03). You can contact me at [email](revanthsrinivaslu03@gmail.com).
+This project was created by [Revanth](https://github.com/revanth-03). You can contact me at revanthsrinivaslu03@gmail.com.
