@@ -1,6 +1,7 @@
 # Chat App
 
 This is a simple chat application built using React and Firebase.
+This app is hosted on Firebase. You can access it at [here](https://react-chat-app-17a59.web.app).
 
 ## Features
 
@@ -36,20 +37,17 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 
 ## Demo
 
-You can see a live demo of the app [here](https://example.com).
+You can see a live demo of the app [here](https://youtu.be/e7L6wH7wBS8).
 
 ## Acknowledgements
 
 This project was built with the help of the following resources:
 
-- React documentation
-- Firebase documentation
-- React Context API tutorial
-- React CSS modules tutorial
-- React Icons documentation
-- ESLint documentation
-- Prettier documentation
+- [React documentation](https://reactjs.org/docs/getting-started.html)
+- [Firebase documentation](https://firebase.google.com/docs)
+- [React Context API tutorial](https://www.smashingmagazine.com/2020/01/introduction-react-context-api)
+- [ESLint documentation](https://eslint.org/docs/user-guide/getting-started)
 
 ## Additional Information
 
-This project was created by [Your Name](https://github.com/yourusername). You can contact me at [your.email@example.com].
+This project was created by [Revanth](https://github.com/revanth-03). You can contact me at [email](revanthsrinivaslu03@gmail.com).
