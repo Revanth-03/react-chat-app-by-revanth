@@ -1,6 +1,6 @@
 # Chat App
 
-This is a simple chat application built using React and Firebase.
+This is a Real-time  chat application built using ReactJs,React Hooks, React Routes and Firebase.
 This app is hosted on Firebase. You can access it at [here](https://react-chat-app-17a59.web.app).
 
 ## Features
