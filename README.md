@@ -4,7 +4,7 @@ This is a Real-time  chat application built using ReactJs,React Hooks, React Rou
 This app is hosted on Firebase. You can access it at [here](https://react-chat-app-17a59.web.app).
 
 ## Features
-
+- User can Register , Login  
 - User authentication with Firebase Auth
 - Real-time chat with Firebase Cloud Firestore
 - Display list of friends with their profile picture, name and last message
